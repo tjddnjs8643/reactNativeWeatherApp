@@ -1,4 +1,5 @@
 module.exports = {
+  usePrettierrc: false,
   arrowParens: 'avoid',
   bracketSameLine: true,
   bracketSpacing: false,
